@@ -10,3 +10,4 @@ $ git push -u origin feature/***
 5.Approve된 PR에 한해서 PR 생성자가 main에 merge
 6.충돌 발생 시에 해결 시도
 7.실습이 끝난 후 GitHub repository 링크를 팀장이 디스코드 #과제-업로드 채널에 공유
+수정-jiin2
