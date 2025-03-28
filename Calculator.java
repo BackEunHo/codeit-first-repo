@@ -15,7 +15,7 @@ public class Calculator {
         b = sc.nextInt();
 
 
-        System.out.println("더하기 결과: " + add(a, b));
+        System.out.println("더하기: " + add(a, b));
     }
 
 }
